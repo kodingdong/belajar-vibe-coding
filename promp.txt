@@ -1,0 +1,10 @@
+buatkan issue.md, berisi planning untuk membuat ini :
+buatkan project baru di belajar-vibe-coding
+menggunakan bun
+gunakan dependency :
+- ElysiaJS
+- Drizzle
+- MySQL
+jangan terlalu low atau deteil
+cukup instruksikan secara high level
+nanti document planning nya akan digunakan oleh programmer atau model lain yang lebih murah untuk diimplementasikan 

@@ -1,0 +1,8 @@
+[build]
+target = "bun"
+
+[test]
+root = "./tests"
+
+[env]
+files = [".env", ".env.local"]
