@@ -6,5 +6,6 @@ export default defineConfig({
   dialect: 'mysql',
   dbCredentials: {
     url: process.env.DATABASE_URL!,
+    database: process.env.DB_Name || "belajar-vibe-coding",
   },
 });
